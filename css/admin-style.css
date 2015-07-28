@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+/* 
+   css pour la page de profil user 
+   
+*/
+
+
+.page-template-default.logged-in {
+	color: green ;
+	font-family: 'Nova Round', cursive;
+}
